@@ -1,0 +1,24 @@
+Chương 5: Cú pháp và biến
+
+Trong chương này, chúng tôi trình bày cú pháp cơ bản của PHP - các quy tắc mà tất cả các mã PHP được hình thành tốt phải tuân theo. 
+Chúng tôi giải thích cách sử dụng các biến để lưu trữ và truy xuất thông tin khi mã PHP của bạn thực thi và hệ thống loại chi phối loại giá trị nào có thể được lưu trữ ở vị trí đầu tiên. 
+Cuối cùng, chúng tôi xem xét các cách đơn giản nhất để hiển thị văn bản sẽ hiển thị trong cửa sổ trình duyệt người dùng của bạn.
+
+PHP đang tha thứ
+
+Điều đầu tiên và quan trọng nhất để nói về ngôn ngữ PHP là nó cố gắng tha thứ nhất có thể.
+Ngôn ngữ lập trình khác nhau khá nhiều về cách nghiêm ngặt cú pháp được thi hành.
+Sự kén chọn có thể là một điều tốt vì nó giúp đảm bảo rằng mã bạn viết bằng văn bản thực sự là những gì bạn muốn nói.
+Nếu bạn đang viết một chương trình để điều khiển lò phản ứng hạt nhân và bạn quên gán biến, thì tốt hơn hết là chương trình sẽ bị từ chối hơn là tạo ra hành vi khác với những gì bạn dự định.
+Triết lý thiết kế của PHP, tuy nhiên, là ở đầu kia của quang phổ.
+Bởi vì PHP bắt đầu cuộc sống như một tiện ích hữu ích để tạo các trang Web nhanh và bẩn, nó nhấn mạnh sự thuận tiện cho người lập trình hơn là tính chính xác; thay vì yêu cầu một lập trình viên làm thêm công việc chỉ định một cách thừa thãi những gì có nghĩa là một đoạn mã, PHP yêu cầu tối thiểu và sau đó cố gắng hết sức để tìm ra ý nghĩa của nó.
+Trong số những thứ khác, điều này có nghĩa là các tính năng cú pháp nhất định hiển thị trong các ngôn ngữ khác, chẳng hạn như khai báo biến và nguyên mẫu hàm, đơn giản là không cần thiết.
+Mặc dù vậy, PHP không thể đọc được suy nghĩ của bạn; nó có một bộ quy tắc cú pháp tối thiểu mà mã của bạn phải tuân theo.
+Bất cứ khi nào bạn thấy các từ phân tích lỗi trong cửa sổ trình duyệt của bạn thay vì trang Web thú vị mà bạn nghĩ bạn vừa viết, điều đó có nghĩa là bạn đã phá vỡ các quy tắc này đến mức mà PHP đã từ bỏ trên trang của bạn.
+
+HTML không phải là PHP
+
+Điều quan trọng thứ hai để hiểu về cú pháp PHP là nó chỉ áp dụng trong PHP.
+Vì PHP được nhúng trong các tài liệu HTML, nên mọi phần của tài liệu đó được hiểu là PHP hoặc HTML, tùy thuộc vào việc phần đó của tài liệu có được đính kèm trong các thẻ PHP hay không.
+
+Cú pháp PHP chỉ có liên quan trong PHP, vì vậy chúng tôi giả sử trong phần còn lại của chương này rằng chế độ PHP có hiệu lực - nghĩa là, hầu hết các đoạn mã sẽ được giả định được nhúng vào trang HTML và được bao quanh bởi các thẻ thích hợp.
