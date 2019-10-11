@@ -98,9 +98,7 @@ I went to the beach.
 
 Who did you go with?
 
-I went with my father, mother
-
-and older sister.
+I went with my father, mother and older sister.
 
 Do you have house at the beach?
 
@@ -264,9 +262,7 @@ Yeah, I like to wear hats but only in the winter time when it is cold.
 
 Hmm.. Do you like to wear jewelry?
 
-I just have the necklace that
-
-my girlfriend gave to me.
+I just have the necklace that my girlfriend gave to me.
 
 Oh
 
@@ -300,7 +296,7 @@ Ok. Here’s my tatoo.
 
 ==========================================================================================================
 
-[005]
+[005] FAMILY
 
 Do you have any bothers and sisters?
 
@@ -344,15 +340,13 @@ How about you? Are you married?
 
 I not married yet.
 
-I had a girlfriend for many years.
-
-But we broken up.
+I had a girlfriend for many years. But we broken up.
 
 I’m sad to hear that.
 
 ==========================================================================================================
 
-[006]
+[006] RETURNING A SHIRT TO THE STORE
 
 Can I retun this?
 
@@ -388,15 +382,11 @@ She bought it last week.
 
 Ok. Good. Do you have the receipt?
 
-As a matter of fact.
-
-I do.
+As a matter of fact. I do.
 
 Let me have the shirt and your receipt, please.
 
-Would you like to exchange
-
-it for a larger size?
+Would you like to exchange it for a larger size?
 
 Can I get cash back instead?
 
@@ -419,6 +409,8 @@ Ok.
 Thank you.
 
 ==========================================================================================================
+
+[007] 
 
 Do you have a pet?
 
@@ -1583,4 +1575,3 @@ The party does not have us.
 Let’s just bring ourselves.
 
 Yeah...!
-
