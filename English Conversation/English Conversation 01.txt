@@ -1,4 +1,4 @@
-[001]
+[001] WHERE DO YOU COM FROM?
 
 Hello
 
@@ -84,7 +84,7 @@ Oh.
 
 ==========================================================================================================
 
-[002]
+[002] HOW WAS YOUR VACATION?
 
 Hey.
 
@@ -140,7 +140,7 @@ Of course.
 
 ==========================================================================================================
 
-[003]
+[003] DO YOU REMEMBER ME?
 
 Hey. Is that Bill?
 
@@ -232,7 +232,7 @@ Oh. no no no. I’m the one who makes the noise.
 
 ==========================================================================================================
 
-[004]
+[004] I LIKE YOUR STYLE
 
 Hey, I like your shirt.
 
@@ -410,7 +410,7 @@ Thank you.
 
 ==========================================================================================================
 
-[007] 
+[007] DO YOU HAVE A PET?
 
 Do you have a pet?
 
@@ -420,33 +420,21 @@ What kind of pet do you have?
 
 Can you guess?
 
-Can I guess?
-
-Ok.
-
-Do you have pet dog?
+Can I guess? Ok. Do you have pet dog?
 
 No. I do not have a pet dog
 
-Ok.
-
-You do not have a pet dog.
-
-Do you have a pet cat?
+Ok. You do not have a pet dog. Do you have a pet cat?
 
 No. I do not have a pet cat.
 
-You do not have a pet cat.
-
-Do you have a pet fish?
+You do not have a pet cat. Do you have a pet fish?
 
 No. I do not have pet fish.
 
 You don’t have a pet fish.
 
-You cannot guess?
-
-Do you want me to tell you?
+You cannot guess? Do you want me to tell you?
 
 No. Wait a minute.
 
@@ -454,19 +442,13 @@ I’m thinking. Give me one more guess.
 
 Ok. I’ll give you one more guess.
 
-I know.
+I know. You have a pet monkey.
 
-You have a pet monkey.
-
-What?
-
-A pet monkey?
-
-Why would I have a pet monkey?
+What? A pet monkey? Why would I have a pet monkey?
 
 Beacause you look like a monkey.
 
-I don’t like look a monkey.
+I don’t look like a monkey.
 
 You look like a monkey.
 
@@ -476,17 +458,13 @@ What kind of pet do you have?
 
 I have a pet iguana.
 
-An iguana? How unusual
-
-Where did you get it?
+An iguana? How unusual. Where did you get it?
 
 From the pet shop.
 
 How long have you had it?
 
-Uh...
-
-About four years.
+Uh... About four years.
 
 Wow. What is your iguana’s name?
 
@@ -496,17 +474,15 @@ Winnie. What does Winnie do?
 
 Winnie doesn’t do very much. He’s quite lazy.
 
-Oh.
+Oh. What does Winnie eat?
 
-What does Winnie eat?
-
-Winnie is a vegetarian.
-
-Winnie eats vegetables.
+Winnie is a vegetarian. Winnie eats vegetables.
 
 That’s quite interesting.
 
 ==========================================================================================================
+
+[008] WHAT KIND OF FOOD DO YOU LIKE?
 
 What kind food do you like?
 
@@ -534,9 +510,7 @@ Sometimes.
 
 Do you have a favourite restaurant?
 
-I do have a favourite
-
-vegetarian restaurant.
+I do have a favourite vegetarian restaurant.
 
 Are you a vegetarian?
 
@@ -548,9 +522,7 @@ No chicken. No pork.
 
 But I do eat fish.
 
-Are you a vegetarian for health
-
-reasons or religious reasons?
+Are you a vegetarian for health reasons or religious reasons?
 
 Most for health reasons.
 
@@ -558,21 +530,17 @@ Huh. All the talk about food has made me hungry.
 
 Are you hungry?
 
-Yes. I am.
-
-Would you like to go to my
-
-favourite vegetarian restaurant?
+Yes. I am. Would you like to go to my favourite vegetarian restaurant?
 
 What is good there?
 
-Well, of course.
-
-The fresh vegetables are outstanding.
+Well, of course. The fresh vegetables are outstanding.
 
 Sounds delicious. Let’s go.
 
 ==========================================================================================================
+
+[009] WHAT DO YOU WANT TO DO AFTER YOU GRADUATE?
 
 Do you study?
 
@@ -582,19 +550,13 @@ What subject do you study?
 
 I’m study marketing.
 
-Ok.
-
-And...
-
-When will you graduate?
+Ok. And... When will you graduate?
 
 I will graduate next semester.
 
 Ok.
 
-Will you continue to study
-
-your master’s degree?
+Will you continue to study your master’s degree?
 
 No. not yet.
 
@@ -604,25 +566,17 @@ I’m not sure yet. It depends.
 
 Depends on what?
 
-It depends on what kinds
-
-of job offers I get.
+It depends on what kinds of job offers I get.
 
 What do you mean?
 
-Well, if I get a job that provides
-
-opportunity. I will take it.
+Well, if I get a job that provides opportunity. I will take it.
 
 What other jobs have you applied for?
 
-Oh, I’ve made many applications
+Oh, I’ve made many applications to all kinds of companies.
 
-to all kinds of companies.
-
-Ok.
-
-What kinds of companies did you apply to?
+Ok. What kinds of companies did you apply to?
 
 Hotels, factories, import companies.
 
@@ -632,17 +586,15 @@ I would rather stay close to my family
 
 What will you do if you cannot find a job?
 
-I cannot find a job. I will stay in
-
-school and study for a master’s degree.
+If I cannot find a job. I will stay in school and study for a master’s degree.
 
 A master’s degree in what faculty?
 
-I’m not sure yet.
-
-I have to think about it.
+I’m not sure yet. I have to think about it.
 
 ==========================================================================================================
+
+[010] PLANNING A TRIP
 
 Let’s get out of the city this weekend.
 
