@@ -824,13 +824,9 @@ Well, I don’t want to run around and get all hot.
 
 Yes. It’s kind of hot.
 
-How about shopping?
+How about shopping? You want to go shopping?
 
-You want to go shopping?
-
-I like shopping.
-
-But i have to watch my money until the end of the month.
+I like shopping. But i have to watch my money until the end of the month.
 
 Well, we can go eat dinner.
 
@@ -847,7 +843,7 @@ Ok. Well, that sounds good.
 When we’re finished. We can go window shopping.
 
 That sounds like fun.
-
+ 
 Oh. And if we want we can play some indoor, air conditioned sports
 
 Really?
@@ -866,13 +862,13 @@ Ok.
 
 ==========================================================================================================
 
+[014] COFFEE OR TEA
+
 Excuse me!
 
 Yes
 
-Would you like some coffee or
-
-tea while you’re waiting?
+Would you like some coffee or tea while you’re waiting?
 
 Yes. That would be lovely. Thank you.
 
@@ -884,11 +880,7 @@ And how would you like your coffee?
 
 Two sugars and some milk.
 
-Ok.
-
-I’m sorry
-
-But we don’t have any milk.
+Ok. I’m sorry. But we don’t have any milk.
 
 Is coffeemate alright?
 
@@ -904,19 +896,11 @@ Yes.
 
 Do you use fresh ground coffee?
 
-No. We don’t.
+No. We don’t. We use instant coffee. Nescafe, I think.
 
-We use instant coffee. Nescafe’, I think.
+I see. On second thought. Can I have some tea, please?
 
-I see.
-
-On second thought
-
-Can I have some tea, please?
-
-Yes.
-
-What kind of tea would you like?
+Yes. What kind of tea would you like?
 
 What kind of tea do you have?
 
@@ -928,9 +912,7 @@ Yes.
 
 I’ll try green tea.
 
-Ok
-
-Would you like that iced or hot?
+Ok. Would you like that iced or hot?
 
 Iced sounds nice.
 
@@ -946,9 +928,7 @@ Cookie?
 
 No. Thank you
 
-Ok
-
-How about an apple?
+Ok. How about an apple?
 
 Yes. I’d like an apple.
 
@@ -960,23 +940,21 @@ I’ll be right back.
 
 ==========================================================================================================
 
+[015] HAVE YOU EVER TRAVELED ABROAD?
+
 Have you ever traveled abroad?
 
 Yes, I have.
 
 In fact, I was born abroad.
 
-You were born abroad.
-
-Where were you born?
+You were born abroad. Where were you born?
 
 I was born in Japan.
 
 You’re joking.
 
-No, I’m not joking.
-
-It’s true. I was made in Japan.
+No, I’m not joking. It’s true. I was made in Japan.
 
 Do you speak Japanese?
 
@@ -988,21 +966,17 @@ How old  were you?
 
 I was nine.
 
-You were nine years old.
-
-And you do not speak Japanese?
+You were nine years old. And you do not speak Japanese?
 
 No. I was 9 months old.
 
-Oh
-
-What other countries have you been to?
+Oh. What other countries have you been to?
 
 I went to Mexico.
 
 How was that?
 
-I was great.
+It was great.
 
 What did you like the best?
 
@@ -1016,33 +990,25 @@ Where else have you been?
 
 I lived in London for one year.
 
-Really?
-
-How was that?
+Really? How was that?
 
 I was only 8 years old.
 
-You were 8 years old
+You were 8 years old. What were you doing there?
 
-What were you doing there?
+I went there with my mother. She was working there.
 
-I went there with my mother.
-
-She was working there.
-
-Of all the countries you have been to
-
-which is your favorite country?
+Of all the countries you have been to which is your favorite country?
 
 Thailand.
 
 Why do you like Thailand?
 
-I love Thailand because the food is delicious
-
-and the people are very friendly.
+I love Thailand because the food is delicious and the people are very friendly.
 
 ==========================================================================================================
+
+[016] SHOPPING
 
 Hi. Can I help you?
 
@@ -1060,11 +1026,7 @@ Ok. Functions and price important to you.
 
 That’s right.
 
-Ok.
-
-First, May I ask you?
-
-What size of washer do you need?
+Ok. First, May I ask you? What size of washer do you need?
 
 What do you mean by “what size washer”?
 
@@ -1078,13 +1040,9 @@ Ok. I think I want a medium size.
 
 Alright. And do you want a one bin or a two-bin washer.
 
-What’s the difference between
+What’s the difference between one-bin and two-bin?
 
-one-bin and two-bin?
-
-Well, with a two-bin washer.
-
-You have to move the clothes to the spinner yourself.
+Well, with a two-bin washer. You have to move the clothes to the spinner yourself.
 
 And the one-bin?
 
@@ -1102,71 +1060,47 @@ Really?
 
 And do the washers cost the same?
 
-Well, the one-bin washer
-
-is more expensive but it’s simple to use.
+Well, the one-bin washer is more expensive but it’s simple to use.
 
 Simple is important.
 
 Well, I think I’d like the one-bin washer.
 
-You know?
-
-If you like things simple and easy.
+You know? If you like things simple and easy.
 
 May I suggest to you the fuzzy logic function?
 
 What is the fuzzy logic?
 
-Fuzzy logic is a special function
-
-It makes using the washer easier.
+Fuzzy logic is a special function. It makes using the washer easier.
 
 How does the function work?
 
-Well, You put in your clothes
+Well, You put in your clothes. You put in the soap and the washer does the rest.
 
-You put in the soap and the washer does the rest.
-
-Sounds perfect!
-
-This is exactly the kind
-
-of washing machine, I’ve been looking for.
+Sounds perfect! This is exactly the kind of washing machine, I’ve been looking for.
 
 ==========================================================================================================
+
+[017] MY HOUSE WAS ROBBED!
 
 Hey! Did you have a good weekend?
 
 No. Not really.
 
-Oh, I’m sorry to hear that.
-
-What happened?
+Oh, I’m sorry to hear that. What happened?
 
 During weekend, my house was robbed.
 
-(Tony Carney)
+Your house was robbed? What do you mean?
 
-Your house was robbed?
+I mean I was not there and someone came and took everything from my house.
 
-What do you mean?
+Someone took everything from your house? That’s terrible.
 
-I mean I was not there and
+Terrible. Yes. I think so.
 
-someone came and took everything from my house.
-
-Someone took everything form your house?
-
-That’s terrible.
-
-Terrible.
-
-Yes. I think so.
-
-Wow...
-
-Did they break anything?
+Wow...Did they break anything?
 
 Yes. They broke a window to get in.
 
@@ -1174,9 +1108,7 @@ Did they take your television?
 
 Yes. They took the television.
 
-Oh.
-
-Did they take the DVD player?
+Oh. Did they take the DVD player?
 
 Yes. They took the DVD player
 
@@ -1186,23 +1118,15 @@ Yes. They took the laptop.
 
 Did they take your clothes?
 
-Yes, they…
+Yes, they… No. They did not take my clothes.
 
-No. They did not take my clothes.
-
-Oh!
-
-That’s because your clothes are old and out of fashion.
+Oh! That’s because your clothes are old and out of fashion.
 
 Do you really think my clothes are old-fashioned?
 
-Yes. I do.
+Yes. I do. They’re very old.
 
-They’re very old.
-
-Oh. this is terrible!
-
-Fist, my house gets robbed, and my clothes are old-fashioned.
+Oh. This is terrible! Fist, my house gets robbed, and my clothes are old-fashioned.
 
 Did you tell the police that your house was robbed?
 
@@ -1210,9 +1134,7 @@ Yes. I told the police.
 
 What... did they say?
 
-They didn’t say much
-
-They just took a report.
+They didn’t say much. They just took a report.
 
 ==========================================================================================================
 
