@@ -684,6 +684,8 @@ I can’t wait.
 
 ==========================================================================================================
 
+[011] HOBBIES
+
 Do you have any hobbies?
 
 Yes. I have several.
@@ -694,37 +696,27 @@ Please tell me more about your hobbies?
 
 Well, I do like to collect things.
 
-Really?
-
-What do you like to collect?
+Really? What do you like to collect?
 
 I like to collect stamps.
 
-Really?
-
-Where do you collect stamps from?
+Really? Where do you collect stamps from?
 
 I collect stamps from all over the world.
 
 Why do you do that?
 
-Because eventually, I hope
-
-to have stamps from every country?
+Because eventually, I hope to have stamps from every country?
 
 Why do you want all of those stamps?
 
-I think it’s because I won’t be able
-
-to go to those countries myself.
+I think it’s because I won’t be able to go to those countries myself.
 
 Oh. What is another hobby of yours?
 
 I collect beer.
 
-Pardon me?
-
-You collect beer?
+Pardon me? You collect beer?
 
 Well, actually I collect beer cans.
 
@@ -738,37 +730,27 @@ No. I’m not a beer drinker.
 
 Oh. I see.
 
-What about you?
-
-What are your hobbies?
+What about you? What are your hobbies?
 
 Well, I like to read a lot.
 
-Really?
+Really? What do you read about?
 
-What do you read about?
-
-I like to read about best sellers
-
-and I like to read a lot about science, too.
+I like to read about best sellers and I like to read a lot about science, too.
 
 What kind of science do you read about?
 
-Variety of topics but I specially like
+Variety of topics but I specially like to read about the nature and about electronics.
 
-to read about the nature and about electronics.
-
-Fascinating
-
-Why do you like to read so much?
+Fascinating. Why do you like to read so much?
 
 Oh, I think it helps me exercise my brain.
 
-That’s a good reason.
-
-If it doesn’t make you too tired.
+That’s a good reason. If it doesn’t make you too tired.
 
 ==========================================================================================================
+
+[012] THE FIRST TIME TO MEET
 
 Alex!
 
@@ -776,9 +758,7 @@ Hey.
 
 Hey.
 
-This is my friend, Bob.
-
-He from England.
+This is my friend, Bob. He from England.
 
 Hey. Excuse me.
 
@@ -788,13 +768,9 @@ Sit down, please.
 
 What city in England do you come from?
 
-I come from London.
+I come from London. Have ever been there?
 
-Have ever been there?
-
-No, I’ve never  been.
-
-I hope to go someday.
+No, I’ve never been. I hope to go someday.
 
 You can, If you have true desire.
 
@@ -822,25 +798,19 @@ That would be nice.
 
 ==========================================================================================================
 
-I’m bored.
+[013] WHAT WOULD YOU LIKE TO DO?
 
-Let’s do something.
+I’m bored. Let’s do something.
 
 What do you want to do?
 
-I don’t know
-
-Anything is fine.
+I don’t know. Anything is fine.
 
 Let’s go see a movie.
 
-No
+No. I went to see 3 movies this week.
 
-I went to see 3 movies this week.
-
-Three
-
-Wow. Why so many?
+Three. Wow. Why so many?
 
 Because I was bored all week.
 
@@ -848,15 +818,11 @@ Well, do you want to play some sports?
 
 No, I don’t want to play any sports.
 
-Why not?
-
-Sports are fun.
+Why not? Sports are fun.
 
 Well, I don’t want to run around and get all hot.
 
-Yes
-
-It’s kind of hot.
+Yes. It’s kind of hot.
 
 How about shopping?
 
@@ -864,39 +830,25 @@ You want to go shopping?
 
 I like shopping.
 
-But have to watch
-
-my money until the end of the month.
+But i have to watch my money until the end of the month.
 
 Well, we can go eat dinner.
 
-Dinner is a good idea.
+Dinner is a good idea. Where would you like to eat?
 
-Where would you like to eat?
-
-I heard about this
-
-new Japanese restaurant down at the mall.
+I heard about this new Japanese restaurant down at the mall.
 
 Is it expensive?
 
-It’s not too expensive
+It’s not too expensive. But it’s not cheap.
 
-But  it’s not cheap.
+Ok. Well, that sounds good.
 
-Ok
-
-Well, that sounds good.
-
-When we’re finished
-
-We can go window shopping.
+When we’re finished. We can go window shopping.
 
 That sounds like fun.
 
-Oh. And if we want we can play
-
-some indoor, air conditioned sports
+Oh. And if we want we can play some indoor, air conditioned sports
 
 Really?
 
