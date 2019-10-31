@@ -1138,17 +1138,15 @@ They didn’t say much. They just took a report.
 
 ==========================================================================================================
 
+[018] ASKING INFORMATION ON THE PHONE
+
 Hello
 
 Hi! Is this Tina.
 
-Yes. It is.
+Yes. It is. Who’s this?
 
-Who’s this?
-
-This is Alex
-
-Do you remember me?
+This is Alex. Do you remember me?
 
 I’m sorry. I do not remember you
 
@@ -1164,31 +1162,21 @@ CS computer is on the third floor.
 
 Oh. Yes
 
-I think I remember now.
-
-What is your name again?
+I think I remember now. What is your name again?
 
 My name is Alex Willis of CS computer.
 
-Oh. I remember you now.
-
-You are the tall person, very handsome?
+Oh. I remember you now. You are the tall person, very handsome?
 
 Yes. That’s right. You have a good memory, Tina.
 
 So what can I do for you, Mr Willis?
 
-Do you remember coming into our shop
+Do you remember coming into our shop and asking about a catalog for computer games?
 
-and asking about a catalog for computer games?
+Yes. I remember asking for the catalog. You could not find it.
 
-Yes. I remember asking for the catalog.
-
-You could not find it.
-
-Right
-
-I couldn’t find it
+Right. I couldn’t find it
 
 But you have it now?
 
@@ -1196,35 +1184,23 @@ Yes. I have the catalog.
 
 Great.
 
-Would you like me to
+Would you like me to keep it here at the shop for you?
 
-keep it here at the shop for you?
+No. I’m not free to go down there anytime soon.
 
-No
-
-I’m not free to go down there anytime soon.
-
-Well, since you cannot come to the shop.
-
-Can I send you the catalog?
+Well, since you cannot come to the shop. Can I send you the catalog?
 
 That would be wonderful!
 
-Ok
-
-May I have your address, please?
+Ok. May I have your address, please?
 
 2307 T street, Sacramento, California 95610.
 
-Ok
-
-Was that 2307 T Street?
+Ok. Was that 2703 T Street?
 
 No. That was 2307 T street.
 
-Ok. I have your address.
-
-And I’ll send it to you today.
+Ok. I have your address. And I’ll send it to you today.
 
 Great! Thanks.
 
@@ -1236,13 +1212,9 @@ Yes?
 
 I often have questions about computers and games.
 
-You can ask me anything
+You can ask me anything. It my business.
 
-It my business.
-
-Thanks for that
-
-May I have your phone number?
+Thanks for that. May I have your phone number?
 
 Sure. It’s 018675309.
 
@@ -1258,29 +1230,25 @@ Bye Bye!
 
 ==========================================================================================================
 
+[019] WHY DO YOU HAVE A HEADACHE?
+
 Honey. I’m home.
 
 How are you?
 
-I’m terrible.
+I’m terrible. I have a headache.
 
-I have a headache.
-
-I’m so sad to hear that.
-
-What give you a headache?
+I’m so sad to hear that. What give you a headache?
 
 There are so many reasons.
 
 Maybe you’ll feel better if you tell me.
 
-Well, Work is my biggest headache.
+Well, work is my biggest headache.
 
 What is wrong at work?
 
-It’s my boss.
-
-He always scolds me.
+It’s my boss. He always scolds me.
 
 Why does your boss scold you?
 
@@ -1302,9 +1270,7 @@ What else gives you a headache?
 
 What else gives me a headache?
 
-My co-workers!
-
-My co-workers give me a headache.
+My co-workers! My co-workers give me a headache.
 
 Why do your co-workers give you a headache?
 
@@ -1314,9 +1280,7 @@ Do they gossip about you?
 
 Probably but not to my face.
 
-That’s too bad.
-
-What else gives you a headache?
+That’s too bad. What else gives you a headache?
 
 Driving!
 
@@ -1324,15 +1288,11 @@ Driving gives me a headache?
 
 Why does driving give you a headache?
 
-Well, there’re always traffic jams
-
-and there’s no place to park.
+Well, there’re always traffic jams and there’s no place to park.
 
 Why don’t you take a bus to work?
 
-Take a bus to work?
-
-It’s too crowed and there’s never a seat.
+Take a bus to work? It’s too crowed and there’s never a seat.
 
 That’s too bad.
 
@@ -1341,6 +1301,8 @@ What can you do to get rid of your headache?
 Easy. I come home and I see you!
 
 ==========================================================================================================
+
+[020] WHAT SHOULD WE GET FOR THE PARTY?
 
 Are you excited to go to the party?
 
@@ -1354,50 +1316,32 @@ What would be good to bring?
 
 What about bringing flowers?
 
-But the flower shop is so far away.
-
-Can you think of something else?
+But the flower shop is so far away. Can you think of something else?
 
 What if we bring some chips.
 
-Uh…Someone else will be bringing chips.
-
-Can you think of something else?
+Uh…Someone else will be bringing chips. Can you think of something else?
 
 What about bringing food?
 
-Well, we don’t have to bring food
+Well, we don’t have to bring food because there’s going to be a buffer at the party.
 
-because there’s going to be a buffer at the party.
+What about bringing my music CD collection?
 
-What about bringing my CD collection?
-
-Bringing your music CD collection is a good idea
-
-but they’re going to have a DJ at the party.
+Bringing your music CD collection is a good idea but they’re going to have a DJ at the party.
 
 What about bringing some playing-cards?
 
-You don’t have to bring playing cards.
+You don’t have to bring playing cards. Because there’s going to be a mini casino at the party.
 
-Because there’s going to be a mini casino at the party.
+Really? There’re going to be a mini casino at the party?
 
-Really?
-
-There’re going to be a mini casino at the party?
-
-Really! It’s true.
-
-I’m not kidding.
-
-Can you think of something else?
+Really! It’s true. I’m not kidding. Can you think of something else?
 
 There’s only one thing the party does not have.
 
 What’s that?
 
-The party does not have us.
-
-Let’s just bring ourselves.
+The party does not have us. Let’s just bring ourselves.
 
 Yeah...!
