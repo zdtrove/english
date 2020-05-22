@@ -1,0 +1,325 @@
+ASKING FOR DIRECTIONS
+
+1. Excuse me! Can you tell me the way to the museum?
+
+2. Excuse me! How do I get to the post office?
+
+3. Pardon me! I’m lost. How do I get to the cafe?
+
+4. Please tell me how I get to your apartment?
+
+5. Excuse me! Is there a hospital near here?
+
+6. What’s the best way to supermarket?
+
+7. Excuse me! Could you tell me how to get to bookstore?
+
+8. Excuse me! Do you know where the church?
+
+9. Could you help me, please? I’m looking for the bank.
+
+10. Are we on the right road to Louis Hotel?
+
+11. Is this the right way to Brington Resort?
+
+12. Do you have a map?
+
+13. Can you show me on the map?
+
+14. Where is the chemist?
+
+15. Can you give me directions to the nearest bus stop?
+
+16. Where can I find the nearest bakery?
+
+17. Is there a supermarket near here?
+
+18. Is there a sports shop around here?
+
+19. Can you tell me how to get to the bookstore from here?
+
+20. What’s the easiest way to get to the nearest cinema from here?
+
+21. Excuse me! Where is the airport?
+
+22. Which road should I take to get to library?
+
+23. In which direction is the nearest Gas Station?
+
+24. Can you show me which way to go using the map?
+
+25. Can I follow you?
+
+26. Could you please guide me?
+
+27. What direction should I take?
+
+28. Can you tell me the best way of getting to your office?
+
+29. Which way do I go to get to the beach?
+
+30. What’s the quickest way of getting to the supermarket?
+
+31. How do you get to the bus stop?
+
+32. I am looking for this address, am I in the right place?
+
+33. Does this bus go to the center?
+
+34. Do you know the train station?
+
+35. Sorry to bother you, but would you mind showing me the way to post office?
+
+36. May I ask where the Marriott Hotel is?
+
+37. Could you please point me in the direction of the Times Square?
+
+38. Excuse me! I’m lost. Could you please help me find the 5th Avenue?
+
+39. Excuse me! Can you help me find Liam Primary School? This is my first time in the city.
+
+40. Do you know how to get to the gallery? I’ve never been there before.
+
+41. Sorry to disturb you, but I’m lost. I’m looking for the Sydney Opera House.
+
+42. I wonder if you could help me? I’m looking for the nearest bank.
+
+43. Excuse me! Could you tell me where the closest bank is?
+
+44. Excuse me! Please could you tell me the way to Fairfax Street?
+
+45. Do you know where the closest post office is?
+
+46. Am I heading in the right direction to the police station?
+
+47. Am I on the right road to the Blackbird restaurant?
+
+48. Am I close to hospital?
+
+49. Excuse me! I’m afraid I can’t find a petrol station. Do you know where one is?
+
+50. Excuse me! Could you give me a few direction? I am lost way.
+
+51. Will you please tell me where the library is?
+
+52. Would you show me the way to the clothes shop?
+
+53. May I ask for some help? I need to get to the CN Tower.
+
+54. May I ask you how to get to the Eaton Centre?
+
+55. How do I find the Thai restaurant?
+
+GIVING DIRECTIONS
+
+1. It’s this way.
+
+2. It’s that way.
+
+3. You’re going the wrong way.
+
+4. You’re going in the wrong direction.
+
+5. Take the first left.
+
+6. Take the second right.
+
+7. Turn right at the crossroads.
+
+8. Continue straight ahead for about a mile.
+
+9. Continue past the primary school.
+
+10. You’ll pass a museum on your left.
+
+11. It’ll be on your left.
+
+12. It’ll be on your right.
+
+13. Take this road.
+
+14. Go down there.
+
+15. It’ll be straight ahead of you.
+
+16 Go straight ahead.
+
+17. Go along the street.
+
+18. Turn left.
+
+19. Turn right.
+
+20. It’s on the corner, across from the cafe.
+
+21. It’s opposite the bank.
+
+22. It’s near.
+
+23. It’s the first turning on the right after the bank.
+
+24. Go straight ahead at the traffic lights.
+
+25. Keep going straight ahead; you will see it on the right.
+
+26. Take a right at the junction.
+
+27. Take a left at the junction.
+
+28. Cross the taxi rank and you are there.
+
+29. Make a left turn when you see the bookshop.
+
+30. Take the first left when you enter Steven Road.
+
+31. Take the second exit at the T- junction and then turn right at the traffic lights.
+
+32. When you get to Paris Street, take your next right.
+
+33. After you pass a restaurant on your left, take a right at the crossroad.
+
+34. Turn left at the end of the corridor.
+
+35. Take a left when you come to the main street.
+
+36. Round the corner from the post office.
+
+37. It is behind the hospital.
+
+38. It is between our office and the supermarket.
+
+39. It is in front of the bus station.
+
+40. It is in the centre of the town.
+
+41. This straight road will lead you to the hospital.
+
+42. Turn left at the intersection and the building is on the right.
+
+43. Walk past the park, and keep going straight until you see the sign for the museum.
+
+44. Go as far as the roundabout.
+
+45. Go across the bridge.
+
+46. Go straight and turn right after the petrol station.
+
+47. Turn right at the end of the road and my house is number 67.
+
+48. Cross the junction and keep going for about 1 mile.
+
+49. The hospital is opposite the railway station.
+
+50. The shop is between the chemist and KFC.
+
+51. The house is next to the local cricket ground.
+
+52. Drive to Paris Street and turn left.
+
+53. You’ll cross some railway lines.
+
+54. Go past the cinema and you’ll find the library.
+
+55. If you cross the street, you’ll find a bookstore there!
+
+HOW FAR IS IT?
+
+1. Is it far (from here)?
+
+2. It’s not far (from here).
+
+3. Is it a long way?
+
+4. It’s a long way on foot.
+
+5. It’s a long way to walk.
+
+6. It’s quite a long way.
+
+7. How far is it to the airport?
+
+8. It’s pretty far from here.
+
+9. How far is it to the park from here?
+
+10. It’s about a mile from here.
+
+11. It’s not far, maybe about 200 yards.
+
+12. It’s just around the corner.
+
+13. How long does it take to get there?
+
+14. It takes a while.
+
+15. It takes about a half-hour.
+
+16. It’s about a five minute walk.
+
+17. If there’s no traffic, about 25 minutes. In heavy traffic, it takes about 45 minutes.
+
+18. It’s about a twenty-minute bus ride.
+
+19. How close is it?
+
+20. It’s quite close.
+
+IF YOU CAN'T HELP
+
+1. I’m sorry, I don’t know.
+
+2. Sorry, I’m not from around here.
+
+3. I’m afraid I can’t help you.
+
+4. You could ask the bus driver.
+
+5. I am stranger here myself.
+
+6. I don’t know the way. We’ve just moved in.
+
+7. I’m sorry! I’m not from here! I have no idea!
+
+8. I’m afraid I don’t. I’d never been here before.
+
+9. I’m sorry. I’m not from here so I don’t know my way around.
+
+10. Sorry. You’ll have to ask someone else.
+
+OFFER WARNING
+
+1. Stay in the right lane
+
+2. It’s a very busy road.
+
+3. It’s a big hill. (if they are walking or on a bike)
+
+4. There might be construction.
+
+5. If you pass the museum, you went too far.
+
+6. There’s no parking.
+
+7. Go slow, there are many schools on the way.
+
+8. There might still be road repairs and diversions.
+
+9. It’s very difficult to park downtown.
+
+10. It’s a on way lane.
+
+11.There might be road repairs.
+
+USEFUL EXPRESSION: OFFER ANOTHER SOLUTION
+
+1. You could ask the bus driver.
+
+2. Ask the front desk clerk.
+
+3. Follow me. I’ll show you the way.
+
+4. Do you want me to draw you a map?
+
+5. It’s better to take bus number 14.
+
+6. You’d better take a bus.
