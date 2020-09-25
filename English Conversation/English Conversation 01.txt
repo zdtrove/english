@@ -78,7 +78,7 @@ I work at the bank.
 
 Are you a bank teller?
 
-No. I’m the owner.
+No. I'm the owner.
 
 Oh.
 
@@ -106,15 +106,15 @@ No. We stayed at a hotel.
 
 Which hotel did you stay at?
 
-It’s call the Imperial.
+It's call the Imperial.
 
 Have you stayed there before?
 
-Yes. We’ve been going there for years.
+Yes. We've been going there for years.
 
-It’s must be very nice.
+It's must be very nice.
 
-Yes.  It’s very nice and not too expensive.
+Yes.  It's very nice and not too expensive.
 
 Did you play in the water?
 
@@ -150,7 +150,7 @@ Do you remember me?
 
 From school.
 
-I’m sorry. I don’t remember you.
+I'm sorry. I don't remember you.
 
 Did we study together?
 
@@ -164,19 +164,19 @@ I lived on the 9th floor.
 
 You lived on the 7th floor.
 
-That’s right.
+That's right.
 
 How did you know?
 
 I would see you in the elevator sometimes.
 
-I’m sorry I don’t remember you.
+I'm sorry I don't remember you.
 
-It’s alright.
+It's alright.
 
 It was several years ago.
 
-Well, anyway. It’s nice to meet you again…
+Well, anyway. It's nice to meet you again…
 
 Monica
 
@@ -208,9 +208,9 @@ A friend?
 
 Is it a boyfriend?
 
-No. she’s an old friend from school.
+No. she's an old friend from school.
 
-We’ve known each  other for many years.
+We've known each  other for many years.
 
 How about you Bill?
 
@@ -222,13 +222,13 @@ Do you like it there?
 
 Yeah.
 
-But it’s kind of noisy.
+But it's kind of noisy.
 
 Oh.
 
 Maybe you should complain with your neighbors.
 
-Oh. no no no. I’m the one who makes the noise.
+Oh. no no no. I'm the one who makes the noise.
 
 ==========================================================================================================
 
@@ -238,7 +238,7 @@ Hey, I like your shirt.
 
 Thanks.
 
-It’s new. I got it last week.
+It's new. I got it last week.
 
 Hah, Did you get anything else?
 
@@ -254,7 +254,7 @@ It cost about $12.
 
 Really? That did not cost too much at all.
 
-Yeah, It’s a good price.
+Yeah, It's a good price.
 
 Hah.. Do you like to wear hats?
 
@@ -268,7 +268,7 @@ Oh
 
 What do you think about fashion?
 
-I think it isn’t imporatant to be in fashion.
+I think it isn't imporatant to be in fashion.
 
 Do you have pierced ear?
 
@@ -280,7 +280,7 @@ Yes, I do.
 
 What is the tattoo of?
 
-It’s a big blue scary monster.
+It's a big blue scary monster.
 
 Oh, really?
 
@@ -292,7 +292,7 @@ Are you sure?
 
 Yes, I am sure.
 
-Ok. Here’s my tatoo.
+Ok. Here's my tatoo.
 
 ==========================================================================================================
 
@@ -314,7 +314,7 @@ How about your parents?
 
 My father died many years ago.
 
-I’m sorry to hear about that.
+I'm sorry to hear about that.
 
 My mother is fine.
 
@@ -324,7 +324,7 @@ What does your mother do?
 
 She teaches at a university.
 
-That’s great!
+That's great!
 
 What does she teach?
 
@@ -342,7 +342,7 @@ I not married yet.
 
 I had a girlfriend for many years. But we broken up.
 
-I’m sad to hear that.
+I'm sad to hear that.
 
 ==========================================================================================================
 
@@ -352,13 +352,13 @@ Can I retun this?
 
 What is this?
 
-It’s a shirt.
+It's a shirt.
 
-What’s wrong with it?
+What's wrong with it?
 
-Nothing’s wrong with it.
+Nothing's wrong with it.
 
-It just doesn’t fit.
+It just doesn't fit.
 
 Is the color wrong?
 
@@ -368,9 +368,9 @@ But the size is much too small.
 
 Do you remember when you bought it?
 
-I didn’t.
+I didn't.
 
-You didn’t buy the shirt.
+You didn't buy the shirt.
 
 Who bought it?
 
@@ -396,13 +396,13 @@ What is that?
 
 Well, the shirt was $19 and 99 cents, right?
 
-Yeah, that’s right.
+Yeah, that's right.
 
 Well, I can give you a store coupon, good for $19 and 99 cents.
 
 Or you can exchange the shirt for a larger size.
 
-Ok. I’ll take the coupon.
+Ok. I'll take the coupon.
 
 Ok.
 
@@ -432,15 +432,15 @@ You do not have a pet cat. Do you have a pet fish?
 
 No. I do not have pet fish.
 
-You don’t have a pet fish.
+You don't have a pet fish.
 
 You cannot guess? Do you want me to tell you?
 
 No. Wait a minute.
 
-I’m thinking. Give me one more guess.
+I'm thinking. Give me one more guess.
 
-Ok. I’ll give you one more guess.
+Ok. I'll give you one more guess.
 
 I know. You have a pet monkey.
 
@@ -448,7 +448,7 @@ What? A pet monkey? Why would I have a pet monkey?
 
 Beacause you look like a monkey.
 
-I don’t look like a monkey.
+I don't look like a monkey.
 
 You look like a monkey.
 
@@ -466,19 +466,19 @@ How long have you had it?
 
 Uh... About four years.
 
-Wow. What is your iguana’s name?
+Wow. What is your iguana's name?
 
 Ah. His name is Winnie.
 
 Winnie. What does Winnie do?
 
-Winnie doesn’t do very much. He’s quite lazy.
+Winnie doesn't do very much. He's quite lazy.
 
 Oh. What does Winnie eat?
 
 Winnie is a vegetarian. Winnie eats vegetables.
 
-That’s quite interesting.
+That's quite interesting.
 
 ==========================================================================================================
 
@@ -498,11 +498,11 @@ You are so lucky.
 
 Why I am lucky?
 
-It’s terrible when I eat a hot pepper.
+It's terrible when I eat a hot pepper.
 
 Can you eat Thai or Mexican food?
 
-Yes, I can but only if it’s really bland.
+Yes, I can but only if it's really bland.
 
 Do you eat out very often?
 
@@ -516,7 +516,7 @@ Are you a vegetarian?
 
 Yes. I am.
 
-So you don’t eat chicken or pork?
+So you don't eat chicken or pork?
 
 No chicken. No pork.
 
@@ -536,7 +536,7 @@ What is good there?
 
 Well, of course. The fresh vegetables are outstanding.
 
-Sounds delicious. Let’s go.
+Sounds delicious. Let's go.
 
 ==========================================================================================================
 
@@ -548,7 +548,7 @@ Yes. I study at the university.
 
 What subject do you study?
 
-I’m study marketing.
+I'm study marketing.
 
 Ok. And... When will you graduate?
 
@@ -556,13 +556,13 @@ I will graduate next semester.
 
 Ok.
 
-Will you continue to study your master’s degree?
+Will you continue to study your master's degree?
 
 No. not yet.
 
 What will you do after you graduate?
 
-I’m not sure yet. It depends.
+I'm not sure yet. It depends.
 
 Depends on what?
 
@@ -574,7 +574,7 @@ Well, if I get a job that provides opportunity. I will take it.
 
 What other jobs have you applied for?
 
-Oh, I’ve made many applications to all kinds of companies.
+Oh, I've made many applications to all kinds of companies.
 
 Ok. What kinds of companies did you apply to?
 
@@ -586,27 +586,27 @@ I would rather stay close to my family
 
 What will you do if you cannot find a job?
 
-If I cannot find a job. I will stay in school and study for a master’s degree.
+If I cannot find a job. I will stay in school and study for a master's degree.
 
-A master’s degree in what faculty?
+A master's degree in what faculty?
 
-I’m not sure yet. I have to think about it.
+I'm not sure yet. I have to think about it.
 
 ==========================================================================================================
 
 [010] PLANNING A TRIP
 
-Let’s get out of the city this weekend.
+Let's get out of the city this weekend.
 
-Mm. That’s good idea.
+Mm. That's good idea.
 
-I’m getting sick of being here.
+I'm getting sick of being here.
 
 Do you want to go to the beach?
 
 We always go to the beach.
 
-Let’s do something different.
+Let's do something different.
 
 How about camping?
 
@@ -628,13 +628,13 @@ Yes. I have sleeping bag.
 
 Do you have one?
 
-No. I don’t.
+No. I don't.
 
 Do you want to share with me?
 
 No, thanks.
 
-I’ll buy a new sleeping bag.
+I'll buy a new sleeping bag.
 
 Do you think we should go far, far away?
 
@@ -646,17 +646,17 @@ I can leave Friday, too.
 
 When will we have to be back?
 
-I’ll have to be back by Sunday.
+I'll have to be back by Sunday.
 
-Ok. We’ll back by Sunday.
+Ok. We'll back by Sunday.
 
-What should we do while we’re there?
+What should we do while we're there?
 
 Do you want to go hiking?
 
 Hiking...
 
-Ok. But we shouldn’t go far from the camp ground.
+Ok. But we shouldn't go far from the camp ground.
 
 If we stay out in the camp ground.
 
@@ -670,17 +670,17 @@ Will you make your famous hamburgers?
 
 Sure thing.
 
-I’ll make hamburgers.
+I'll make hamburgers.
 
 Should we invite some friends?
 
 Great idea.
 
-Let’s invite all of our friends.
+Let's invite all of our friends.
 
 This is going to be fun.
 
-I can’t wait.
+I can't wait.
 
 ==========================================================================================================
 
@@ -710,7 +710,7 @@ Because eventually, I hope to have stamps from every country?
 
 Why do you want all of those stamps?
 
-I think it’s because I won’t be able to go to those countries myself.
+I think it's because I won't be able to go to those countries myself.
 
 Oh. What is another hobby of yours?
 
@@ -726,7 +726,7 @@ From every place that I travel to.
 
 Do you drink the beer?
 
-No. I’m not a beer drinker.
+No. I'm not a beer drinker.
 
 Oh. I see.
 
@@ -746,7 +746,7 @@ Fascinating. Why do you like to read so much?
 
 Oh, I think it helps me exercise my brain.
 
-That’s a good reason. If it doesn’t make you too tired.
+That's a good reason. If it doesn't make you too tired.
 
 ==========================================================================================================
 
@@ -770,21 +770,21 @@ What city in England do you come from?
 
 I come from London. Have ever been there?
 
-No, I’ve never been. I hope to go someday.
+No, I've never been. I hope to go someday.
 
 You can, If you have true desire.
 
 Have been here a long time?
 
-I’ve been here for about seven years.
+I've been here for about seven years.
 
 How about you?
 
-Oh. I’ve been here all my life.
+Oh. I've been here all my life.
 
 Why have you stayed here such a long time?
 
-I’ve stayed here for many reasons.
+I've stayed here for many reasons.
 
 Are you married?
 
@@ -800,13 +800,13 @@ That would be nice.
 
 [013] WHAT WOULD YOU LIKE TO DO?
 
-I’m bored. Let’s do something.
+I'm bored. Let's do something.
 
 What do you want to do?
 
-I don’t know. Anything is fine.
+I don't know. Anything is fine.
 
-Let’s go see a movie.
+Let's go see a movie.
 
 No. I went to see 3 movies this week.
 
@@ -816,13 +816,13 @@ Because I was bored all week.
 
 Well, do you want to play some sports?
 
-No, I don’t want to play any sports.
+No, I don't want to play any sports.
 
 Why not? Sports are fun.
 
-Well, I don’t want to run around and get all hot.
+Well, I don't want to run around and get all hot.
 
-Yes. It’s kind of hot.
+Yes. It's kind of hot.
 
 How about shopping? You want to go shopping?
 
@@ -836,11 +836,11 @@ I heard about this new Japanese restaurant down at the mall.
 
 Is it expensive?
 
-It’s not too expensive. But it’s not cheap.
+It's not too expensive. But it's not cheap.
 
 Ok. Well, that sounds good.
 
-When we’re finished. We can go window shopping.
+When we're finished. We can go window shopping.
 
 That sounds like fun.
  
@@ -856,7 +856,7 @@ Bowling
 
 Right?
 
-Great. Let’s go.
+Great. Let's go.
 
 Ok.
 
@@ -868,7 +868,7 @@ Excuse me!
 
 Yes
 
-Would you like some coffee or tea while you’re waiting?
+Would you like some coffee or tea while you're waiting?
 
 Yes. That would be lovely. Thank you.
 
@@ -880,7 +880,7 @@ And how would you like your coffee?
 
 Two sugars and some milk.
 
-Ok. I’m sorry. But we don’t have any milk.
+Ok. I'm sorry. But we don't have any milk.
 
 Is coffeemate alright?
 
@@ -888,7 +888,7 @@ Coffeemate is fine.
 
 Ok.
 
-It’s one coffee. I’ll be right back.
+It's one coffee. I'll be right back.
 
 Oh. Excuse me.
 
@@ -896,7 +896,7 @@ Yes.
 
 Do you use fresh ground coffee?
 
-No. We don’t. We use instant coffee. Nescafe, I think.
+No. We don't. We use instant coffee. Nescafe, I think.
 
 I see. On second thought. Can I have some tea, please?
 
@@ -910,7 +910,7 @@ Green tea is Chinese, is it not?
 
 Yes.
 
-I’ll try green tea.
+I'll try green tea.
 
 Ok. Would you like that iced or hot?
 
@@ -930,13 +930,13 @@ No. Thank you
 
 Ok. How about an apple?
 
-Yes. I’d like an apple.
+Yes. I'd like an apple.
 
 Ok.
 
 One iced green tea and one apple
 
-I’ll be right back.
+I'll be right back.
 
 ==========================================================================================================
 
@@ -952,13 +952,13 @@ You were born abroad. Where were you born?
 
 I was born in Japan.
 
-You’re joking.
+You're joking.
 
-No, I’m not joking. It’s true. I was made in Japan.
+No, I'm not joking. It's true. I was made in Japan.
 
 Do you speak Japanese?
 
-No, I don’t.
+No, I don't.
 
 I left when I was young.
 
@@ -1012,19 +1012,19 @@ I love Thailand because the food is delicious and the people are very friendly.
 
 Hi. Can I help you?
 
-Yes. I’d like to buy a washing machine.
+Yes. I'd like to buy a washing machine.
 
 Ok. Which brand would you like?
 
-I don’t care so much about brand.
+I don't care so much about brand.
 
-So, What’s are you looking for?
+So, What's are you looking for?
 
-I’m looking for good price and good functions.
+I'm looking for good price and good functions.
 
 Ok. Functions and price important to you.
 
-That’s right.
+That's right.
 
 Ok. First, May I ask you? What size of washer do you need?
 
@@ -1040,7 +1040,7 @@ Ok. I think I want a medium size.
 
 Alright. And do you want a one bin or a two-bin washer.
 
-What’s the difference between one-bin and two-bin?
+What's the difference between one-bin and two-bin?
 
 Well, with a two-bin washer. You have to move the clothes to the spinner yourself.
 
@@ -1048,7 +1048,7 @@ And the one-bin?
 
 It does it automatically.
 
-It’s a two-in-one spin bin.
+It's a two-in-one spin bin.
 
 Oh. I understand.
 
@@ -1060,11 +1060,11 @@ Really?
 
 And do the washers cost the same?
 
-Well, the one-bin washer is more expensive but it’s simple to use.
+Well, the one-bin washer is more expensive but it's simple to use.
 
 Simple is important.
 
-Well, I think I’d like the one-bin washer.
+Well, I think I'd like the one-bin washer.
 
 You know? If you like things simple and easy.
 
@@ -1078,7 +1078,7 @@ How does the function work?
 
 Well, You put in your clothes. You put in the soap and the washer does the rest.
 
-Sounds perfect! This is exactly the kind of washing machine, I’ve been looking for.
+Sounds perfect! This is exactly the kind of washing machine, I've been looking for.
 
 ==========================================================================================================
 
@@ -1088,7 +1088,7 @@ Hey! Did you have a good weekend?
 
 No. Not really.
 
-Oh, I’m sorry to hear that. What happened?
+Oh, I'm sorry to hear that. What happened?
 
 During weekend, my house was robbed.
 
@@ -1096,7 +1096,7 @@ Your house was robbed? What do you mean?
 
 I mean I was not there and someone came and took everything from my house.
 
-Someone took everything from your house? That’s terrible.
+Someone took everything from your house? That's terrible.
 
 Terrible. Yes. I think so.
 
@@ -1120,11 +1120,11 @@ Did they take your clothes?
 
 Yes, they… No. They did not take my clothes.
 
-Oh! That’s because your clothes are old and out of fashion.
+Oh! That's because your clothes are old and out of fashion.
 
 Do you really think my clothes are old-fashioned?
 
-Yes. I do. They’re very old.
+Yes. I do. They're very old.
 
 Oh. This is terrible! Fist, my house gets robbed, and my clothes are old-fashioned.
 
@@ -1134,7 +1134,7 @@ Yes. I told the police.
 
 What... did they say?
 
-They didn’t say much. They just took a report.
+They didn't say much. They just took a report.
 
 ==========================================================================================================
 
@@ -1144,11 +1144,11 @@ Hello
 
 Hi! Is this Tina.
 
-Yes. It is. Who’s this?
+Yes. It is. Who's this?
 
 This is Alex. Do you remember me?
 
-I’m sorry. I do not remember you
+I'm sorry. I do not remember you
 
 Did you come into the CS computer shop today?
 
@@ -1168,7 +1168,7 @@ My name is Alex Willis of CS computer.
 
 Oh. I remember you now. You are the tall person, very handsome?
 
-Yes. That’s right. You have a good memory, Tina.
+Yes. That's right. You have a good memory, Tina.
 
 So what can I do for you, Mr Willis?
 
@@ -1176,7 +1176,7 @@ Do you remember coming into our shop and asking about a catalog for computer gam
 
 Yes. I remember asking for the catalog. You could not find it.
 
-Right. I couldn’t find it
+Right. I couldn't find it
 
 But you have it now?
 
@@ -1186,7 +1186,7 @@ Great.
 
 Would you like me to keep it here at the shop for you?
 
-No. I’m not free to go down there anytime soon.
+No. I'm not free to go down there anytime soon.
 
 Well, since you cannot come to the shop. Can I send you the catalog?
 
@@ -1200,7 +1200,7 @@ Ok. Was that 2703 T Street?
 
 No. That was 2307 T street.
 
-Ok. I have your address. And I’ll send it to you today.
+Ok. I have your address. And I'll send it to you today.
 
 Great! Thanks.
 
@@ -1216,7 +1216,7 @@ You can ask me anything. It my business.
 
 Thanks for that. May I have your phone number?
 
-Sure. It’s 018675309.
+Sure. It's 018675309.
 
 Call me anytime if you have a question.
 
@@ -1232,39 +1232,39 @@ Bye Bye!
 
 [019] WHY DO YOU HAVE A HEADACHE?
 
-Honey. I’m home.
+Honey. I'm home.
 
 How are you?
 
-I’m terrible. I have a headache.
+I'm terrible. I have a headache.
 
-I’m so sad to hear that. What give you a headache?
+I'm so sad to hear that. What give you a headache?
 
 There are so many reasons.
 
-Maybe you’ll feel better if you tell me.
+Maybe you'll feel better if you tell me.
 
 Well, work is my biggest headache.
 
 What is wrong at work?
 
-It’s my boss. He always scolds me.
+It's my boss. He always scolds me.
 
 Why does your boss scold you?
 
-He says I’m lazy and I take too many breaks.
+He says I'm lazy and I take too many breaks.
 
 Well, do you take too many breaks?
 
-I don’t think so.
+I don't think so.
 
-Why don’t you ignore your boss?
+Why don't you ignore your boss?
 
-I can’t ignore him.
+I can't ignore him.
 
 He is my boss.
 
-That’s too bad.
+That's too bad.
 
 What else gives you a headache?
 
@@ -1274,13 +1274,13 @@ My co-workers! My co-workers give me a headache.
 
 Why do your co-workers give you a headache?
 
-Because they’re always gossiping.
+Because they're always gossiping.
 
 Do they gossip about you?
 
 Probably but not to my face.
 
-That’s too bad. What else gives you a headache?
+That's too bad. What else gives you a headache?
 
 Driving!
 
@@ -1288,13 +1288,13 @@ Driving gives me a headache?
 
 Why does driving give you a headache?
 
-Well, there’re always traffic jams and there’s no place to park.
+Well, there're always traffic jams and there's no place to park.
 
-Why don’t you take a bus to work?
+Why don't you take a bus to work?
 
-Take a bus to work? It’s too crowed and there’s never a seat.
+Take a bus to work? It's too crowed and there's never a seat.
 
-That’s too bad.
+That's too bad.
 
 What can you do to get rid of your headache?
 
@@ -1306,7 +1306,7 @@ Easy. I come home and I see you!
 
 Are you excited to go to the party?
 
-Yes. I’m very excited about the party.
+Yes. I'm very excited about the party.
 
 Do you think we should bring something with us?
 
@@ -1324,24 +1324,24 @@ Uh…Someone else will be bringing chips. Can you think of something else?
 
 What about bringing food?
 
-Well, we don’t have to bring food because there’s going to be a buffer at the party.
+Well, we don't have to bring food because there's going to be a buffer at the party.
 
 What about bringing my music CD collection?
 
-Bringing your music CD collection is a good idea but they’re going to have a DJ at the party.
+Bringing your music CD collection is a good idea but they're going to have a DJ at the party.
 
 What about bringing some playing-cards?
 
-You don’t have to bring playing cards. Because there’s going to be a mini casino at the party.
+You don't have to bring playing cards. Because there's going to be a mini casino at the party.
 
-Really? There’re going to be a mini casino at the party?
+Really? There're going to be a mini casino at the party?
 
-Really! It’s true. I’m not kidding. Can you think of something else?
+Really! It's true. I'm not kidding. Can you think of something else?
 
-There’s only one thing the party does not have.
+There's only one thing the party does not have.
 
-What’s that?
+What's that?
 
-The party does not have us. Let’s just bring ourselves.
+The party does not have us. Let's just bring ourselves.
 
 Yeah...!

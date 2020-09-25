@@ -1,0 +1,30 @@
+ENGLISH SKILLS
+
+1. 2 VOA
+2. 5 Conversation
+3. 1 Toeic
+
+CODING SKILLS
+
+1. Javascript / Typescript 
+2. Node / Express
+3. React
+4. Angular
+5. Vue
+6. Html / CSS / SCSS / Material UI / BOOTSTRAP
+7. Docker
+8. UI/UX design
+9. MongoDB / Mysql / Postgresql
+
+
+
+17/06: 2
+18/06: 2
+19/06: 2
+20/06: 4
+21/06: 4
+22/06: 2
+23/06: 3
+24/06: 3
+25/06: 2
+26/06: 2
