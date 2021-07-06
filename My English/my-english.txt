@@ -1,0 +1,14 @@
+2021-07-06
+
+My name is Hoang An.
+I am 29 years old.
+I like to play chess, badminton and jogging.
+Also, in my free time I also like listening to music, watching movies, reading and hang out with friends.
+I used to study at the University of Science in Ho Chi Minh City.
+My major is computer science.
+I graduated in 2014.
+I am a software development engineer and I have been working in this field for 6 years.
+My company is quite small, only about 30 people.
+My team consists of 6 members, a BSE, a leader, two backend engineers, 2 frontend engineers including me.
+The project I'm developing is an animal project called Dogrun.
+It is a system where users can register a place to walk the dog.
