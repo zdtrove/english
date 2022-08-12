@@ -1,0 +1,2 @@
+1. The project I am working on is an e-commerce project.
+2. My team consists of 6 people, 1 translator, 1 team leader, 2 people working on the backend, 2 people working on the frontend including me.
