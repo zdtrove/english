@@ -1,0 +1,23 @@
+1. My current job
+  1.1 The project I am working on is an e-commerce website, the backend using nodeJs (express) and the frontend using nextJs.
+  1.2 My team consists of 6 people, a translator, a team leader, 2 people working on the backend, 2 people working on the frontend including me.
+  1.3 My day job is to take the task, estimate the time to do the task, then I will start coding.
+  1.4 After completing the task, I will check the code, functionality, user interface and test the old functions related to this task again before giving it to the team leader.
+  1.5 Then the team leader will check again, if there is anything wrong, give feedback and I will start to fix the feedback.
+  1.6 This will be repeated until everything related to the task is perfect, then the team leader will deploy to the dev server for a final test before notifying the client that the task is complete.
+2. Introduce myself
+  2.1 I am easy to get along with and work well with everyone.
+  2.2 I enjoy interacting with different types of people and I always challenge myself to improve in everything I do.
+  2.3 When I'm working, I want to work hard.
+  2.4 And outside of work, I like to engage in my personal activities such as jogging and playing badminton.
+3. My strengths
+  3.1 I have good communication skills and I'm reliable and organized.
+  3.2 I always pays attention to detail, I want every task to be done carefully.
+  3.3 I can complete a large amount of work in a short time with as few errors as possible and I always get my work done on time.
+4. My weaknesses
+  4.1 I feel my English is my weakest point, I know this is only a temporary problem and I will definitely study hard to communicate more effectively.
+  4.2 The next weak point that I struggled with is not asking for help.
+  4.3 I always try to solve my own problems instead of asking a colleague who might know the answer.
+  4.4 This would save me more time and I would be more efficient.
+  4.5 I'm trying to know when it's beneficial to ask for help.
+  4.5 I'm not a very spontaneous person, I prefer to work prepared and according to a well-defined plan
